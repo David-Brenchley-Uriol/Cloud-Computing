@@ -4,18 +4,18 @@ This project is a hands-on exploration of modern cloud technologies including **
 
 ## Topics Covered
 
-- 🔹 **Microsoft Azure VM**
+-  **Microsoft Azure VM**
   - Creating and managing virtual machines on Azure
   - SSH access and basic Linux administration
   - Deploying applications to Azure VMs
 
-- 🔹 **Kubernetes (k8s)**
+-  **Kubernetes (k8s)**
   - Understanding Kubernetes architecture
   - Writing YAML files for pods, deployments, and services
   - Deploying containerized applications
   - Managing clusters using `kubectl`
 
-- 🔹 **Ngrok**
+-  **Ngrok**
   - Exposing local servers to the internet
   - Using Ngrok to tunnel Kubernetes services
   - Securing and sharing local applications over the web
