@@ -1,8 +1,8 @@
-# ☁️ Cloud Learning Project: Kubernetes, Ngrok & Azure VM
+#  Cloud Learning Project: Kubernetes, Ngrok & Azure VM
 
 This project is a hands-on exploration of modern cloud technologies including **Kubernetes**, **Ngrok**, and **Microsoft Azure Virtual Machines**. 
 
-## 📚 Topics Covered
+## Topics Covered
 
 - 🔹 **Microsoft Azure VM**
   - Creating and managing virtual machines on Azure
